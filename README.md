@@ -1,40 +1,41 @@
 # Algoritmi e Strutture Dati
 Note del corso, per la versione inglese curata da @PayThePizzo [premere qui](https://github.com/PayThePizzo/DataStrutucures-Algorithms)
 
-This repository follows the content of "Algorithms and Data Structures" 
-[Mod. 1](https://www.unive.it/data/insegnamento/339889) and 
-[Mod. 2](https://www.unive.it/data/insegnamento/339890) for the 
-[Bachelor of Computer Science](https://www.unive.it/pag/3/) at
-[Ca' Foscari University of Venice](https://www.unive.it/).
+Questa repository segue i contenuti del corso "Algoritmi e Strutture Dati" 
+[Mod. 1](https://www.unive.it/data/insegnamento/339889) e 
+[Mod. 2](https://www.unive.it/data/insegnamento/339890) per la
+[Laurea triennale in Informatica](https://www.unive.it/pag/3/) a
+[Università Ca' Foscari di Venezia](https://www.unive.it/).
 
-However, there will be some content that is added by myself for a better understanding of the main data
-structures used in Tech nowadays.
-This is a project that will be, eventually, extended to implement more information about the subject in a second time.
+Tuttavia, ci sono dei contenuti aggiunti da me stesso per una migliore comprensione delle principali
+strutture dati usate nell'industria oggigiorno.
+Questo progetto verrà eventualmente esteso per includere più informazioni riguardo alla materia trattata in un secondo momento. 
 
 --- 
 
-## Data Structures
-We **do not include** some basic data structure that must be covered in an introductory course such as:
-* Sets
-* Arrays
-* Stack
-* Queues
-* Linked Lists and their declinations
+## Strutture Dati
+Noi **non includiamo** alcune strutture dati basilari che devono essere incluse in un corso introduttorio, tra cui:
+* Insiemi(set);
+* Array;
+* Pile(stack);
+* Code;
+* Liste e le loro derivazioni.
 
-## Algorithms
-We will try implement most of the algorithms in order to make them runnable.
 
-We cover:
-* Time Complexity
-* Recursion resolution 
-* The basic operations for the main data structures
-* Sorting
-* Dynamic Programming
-* Graph Theory
+## Algoritmi
+Cercheremo di implementare gli algoritmi in modo che siano prontamente eseguibili.
+
+Copriremo:
+* Complessità temporale
+* Risoluzione delle ricorsioni
+* Le operazioni primitive per le principali strutture dati
+* Ordinamento
+* Programmazione dinamica
+* Teoria dei grafi
 
 ---
 
-## Compilation
+## Compilazione
 
 ### C
 TBD
@@ -44,17 +45,17 @@ TBD
 
 ---
 
-### Credits
-All credits for the content go to:
-* Professor [Alessandra Raffaeta'](https://www.unive.it/data/persone/5591966) and [Marcello Pelillo](https://www.unive.it/data/persone/5592849)
+### Crediti
+Tutto il contenuto è merito di:
+* Professoressa [Alessandra Raffaeta'](https://www.unive.it/data/persone/5591966) e [Marcello Pelillo](https://www.unive.it/data/persone/5592849)
 * [DFI] C. Demetrescu, I. Finocchi, G.F. Italiano. Algoritmi e strutture dati. Seconda Edizione. McGraw-Hill, 2008.
 * [CLRS] T. H. Cormen, C. E. Leiserson, R. L. Rivest, C. Stein. Introduction to algorithms 3/ed. McGraw-Hill, 2010.
-* Computer Science Bachelor Students at Ca' Foscari University of Venice.
+* Studenti di laurea triennale in Informatica di Ca' Foscari.
 
-We add specific credits to each markdown file in case we get some more external information.
-We highly recommend buying these books.
+Aggiungiamo commenti specifici a ogni file di markdown nel caso dovessimo ottenere più informazioni da fonti esterne.
+Raccomandiamo fortemente di comprare i libri sopracitati.
 
-### Final Message
-As students, we think knowledge and culture should be accessible to anyone interested. Furthermore,
-education should be free. This is why we will try to structure these notes as well as possible, so if you notice any 
-mistake at any level, please feel free to contact us about it.
+### Ultimi messaggi
+Come studenti, riteniamo che la conoscenza e la cultura dovrebbero essere liberamente accessibili a chiunque sia interessato. Inoltre, 
+l'educazione dovrebb essere libera. È per questo che cercheremo di strutturare queste note il meglio possibile, quindi se notate alcuni
+errori in qualsiasi punto, sentiteci liberi di contattarci a riguardo.
